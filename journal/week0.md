@@ -21,3 +21,15 @@ Created an AWS Zero spend budget with my Name.
 Created an Billing Alarm which triggers when Charges Exceed $0.1.
 
 <img src="screenshots/alarm.png" >
+
+## Create an Admin User
+
+MFA
+
+<img src="screenshots/iam.png" >
+
+Admin User
+
+<img src="screenshots/iam-2.png" >
+
+
