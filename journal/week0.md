@@ -15,3 +15,9 @@ Created a very simple architecture on a napkin.
 Created an AWS Zero spend budget with my Name.
 
 <img src="screenshots/budget.png" >
+
+## Create an Alarm
+
+Created an Billing Alarm which triggers when Charges Exceed $0.1.
+
+<img src="screenshots/alarm.png" >
