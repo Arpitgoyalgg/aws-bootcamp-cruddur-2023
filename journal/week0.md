@@ -6,7 +6,7 @@ Created a very simple architecture on a napkin.
 
 <img src="screenshots/napkin.jpeg" >
 
-### Recreate Logical Architectual Diagram in Lucid Charts
+## Recreate Logical Architectual Diagram in Lucid Charts
 
 <img src="screenshots/lucid.png" >
 
