@@ -38,3 +38,7 @@ Used CloudShell and ran a couple commands.
 
 <img src="screenshots/cloudshell-used.png" >
 
+
+## Install AWS CLI and generate credentials
+
+<img src="screenshots/gitpod-aws-cli-creds.png" >
