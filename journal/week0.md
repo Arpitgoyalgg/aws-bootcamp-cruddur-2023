@@ -10,4 +10,8 @@ Created a very simple architecture on a napkin.
 
 <img src="screenshots/lucid.png" >
 
+## Create a budget
 
+Created an AWS Zero spend budget with my Name.
+
+<img src="screenshots/budget.png" >
