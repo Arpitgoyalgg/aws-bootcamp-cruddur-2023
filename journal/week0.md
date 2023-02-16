@@ -32,4 +32,9 @@ Admin User
 
 <img src="screenshots/iam-2.png" >
 
+## Use CloudShell
+
+Used CloudShell and ran a couple commands.
+
+<img src="screenshots/cloudshell-used.png" >
 
